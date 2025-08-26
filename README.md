@@ -1,12 +1,5 @@
 #### 👋 Hi there, I’m @giyeon-dev
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=giyeon-dev&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/giyeon-dev"
-  width="600"
-  height="300"
-/>
-</a>
 
 ##### 🌱 Skills
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) <br>
